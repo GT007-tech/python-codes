@@ -1,2 +1,2 @@
 x = int(input("Enter the number")) #takes input from user
-print(pow(x,3)) # prints cube of a number
+print(pow(x,3))
