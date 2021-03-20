@@ -1,4 +1,4 @@
-x=float(input("Enter the number"))
+x=float(input("Enter the number")) #Input
 if x>0:
   print('the number entered is positive')
 elif x<0:
